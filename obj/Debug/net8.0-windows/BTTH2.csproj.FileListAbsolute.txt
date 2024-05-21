@@ -1,0 +1,42 @@
+D:\subject_learning\Csharp\BTTH2\bin\Debug\net8.0-windows\BTTH2.exe
+D:\subject_learning\Csharp\BTTH2\bin\Debug\net8.0-windows\BTTH2.deps.json
+D:\subject_learning\Csharp\BTTH2\bin\Debug\net8.0-windows\BTTH2.runtimeconfig.json
+D:\subject_learning\Csharp\BTTH2\bin\Debug\net8.0-windows\BTTH2.dll
+D:\subject_learning\Csharp\BTTH2\bin\Debug\net8.0-windows\BTTH2.pdb
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.Form1.resources
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.music_list.resources
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.csproj.GenerateResource.cache
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.GeneratedMSBuildEditorConfig.editorconfig
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.AssemblyInfoInputs.cache
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.AssemblyInfo.cs
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.csproj.CoreCompileInputs.cache
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.dll
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\refint\BTTH2.dll
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.pdb
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.genruntimeconfig.cache
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\ref\BTTH2.dll
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.songItem.resources
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.Properties.Resources.resources
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.favourite_list.resources
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.playlistList.resources
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.playlist_song_list.resources
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.add_song_to_PL.resources
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.home_control.resources
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.panel_song.resources
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.songInfo.resources
+D:\subject_learning\Csharp\BTTH2\obj\Debug\net8.0-windows\BTTH2.comment_item.resources
+C:\Users\CCNP Enterprise Core\Desktop\BTTH2\obj\Debug\net8.0-windows\BTTH2.add_song_to_PL.resources
+C:\Users\CCNP Enterprise Core\Desktop\BTTH2\obj\Debug\net8.0-windows\BTTH2.comment_item.resources
+C:\Users\CCNP Enterprise Core\Desktop\BTTH2\obj\Debug\net8.0-windows\BTTH2.favourite_list.resources
+C:\Users\CCNP Enterprise Core\Desktop\BTTH2\obj\Debug\net8.0-windows\BTTH2.Form1.resources
+C:\Users\CCNP Enterprise Core\Desktop\BTTH2\obj\Debug\net8.0-windows\BTTH2.home_control.resources
+C:\Users\CCNP Enterprise Core\Desktop\BTTH2\obj\Debug\net8.0-windows\BTTH2.music_list.resources
+C:\Users\CCNP Enterprise Core\Desktop\BTTH2\obj\Debug\net8.0-windows\BTTH2.panel_song.resources
+C:\Users\CCNP Enterprise Core\Desktop\BTTH2\obj\Debug\net8.0-windows\BTTH2.playlistList.resources
+C:\Users\CCNP Enterprise Core\Desktop\BTTH2\obj\Debug\net8.0-windows\BTTH2.playlist_song_list.resources
+C:\Users\CCNP Enterprise Core\Desktop\BTTH2\obj\Debug\net8.0-windows\BTTH2.songItem.resources
+C:\Users\CCNP Enterprise Core\Desktop\BTTH2\obj\Debug\net8.0-windows\BTTH2.songInfo.resources
+C:\Users\CCNP Enterprise Core\Desktop\BTTH2\obj\Debug\net8.0-windows\BTTH2.csproj.GenerateResource.cache
+C:\Users\CCNP Enterprise Core\Desktop\BTTH2\obj\Debug\net8.0-windows\BTTH2.dll
+C:\Users\CCNP Enterprise Core\Desktop\BTTH2\obj\Debug\net8.0-windows\refint\BTTH2.dll
+C:\Users\CCNP Enterprise Core\Desktop\BTTH2\obj\Debug\net8.0-windows\BTTH2.pdb
